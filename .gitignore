@@ -25,6 +25,7 @@
 *.la
 *.a
 *.lib
+*.TMP
 
 # Debug files
 *.pdb
